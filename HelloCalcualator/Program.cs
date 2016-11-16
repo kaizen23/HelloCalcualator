@@ -14,7 +14,7 @@ namespace HelloCalcualator
             Console.WriteLine(result);
             Console.WriteLine(AddNumbers(-1, 32));
             Console.ReadKey();
-            /*test*/
+            /*test/*test*//*test*/
         }
 
         private static int AddNumbers(int numberOne, int numberTwo)
